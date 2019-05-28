@@ -10,7 +10,7 @@ package org.karthic;
 public class HelloWorld {
 
 	public String sayHello() {
-		return "Hello, world by Hemant Kothiyal!";
+		return "Hemant Kothiyal Hello, world!";
 	}
 
 	public static void main(String[] args) {
